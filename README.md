@@ -2,4 +2,4 @@
 Repo for powerlab challanges
 ![My image](https://github.com/nailtosun/Repo_for_powerlab/blob/master/readme.PNG)
 
-![My image](https://github.com/nailtosun/Repo_for_powerlab/blob/master/bigimage.PNG)
+![My image](https://github.com/nailtosun/Repo_for_powerlab/blob/master/bigimage.png)
